@@ -1,5 +1,6 @@
 {
   "name": "bitexpert-cs-jshint",
+  "version": "0.1.0",
   "description": "bitExpert hsjint configuration",
   "scripts": {
     "test": "exit 0"
