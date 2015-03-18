@@ -1,17 +1,6 @@
 {
-    "curly": true,
-    "eqeqeq": true,
-    "immed": true,
-    "latedef": true,
-    "newcap": true,
-    "noarg": true,
-    "sub": true,
-    "undef": true,
-    "unused": true,
-    "boss": true,
-    "eqnull": true,
+    "extends": "generic.json",
     "strictglobals": true,
-    "browser": true,
     "globals": {
         "angular": true
     }
