@@ -1,6 +1,6 @@
 {
     "extends": "generic.json",
-    "strictglobals": true,
+    "globalstrict": true,
     "globals": {
         "angular": true
     }
